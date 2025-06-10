@@ -1,5 +1,5 @@
 # JavaScript Basics 🚀
-# i created this javascript repository just to learn git & github "The content of this JavaScript repository does not indicate my knowledge & practice."
+i created this javascript repository just to learn git & github "The content of this JavaScript repository does not indicate my knowledge & practice. (2025 Jun 10)"
 
 Welcome to the **JavaScript** repository!  
 This repo is a comprehensive guide for beginners covering all the **fundamental concepts of JavaScript**.
