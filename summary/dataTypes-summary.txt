@@ -1,0 +1,8 @@
+// Primitive (Stack Memory)
+// 7 types : String, Number, Boolean, null, undefined, Symbol, Bigint
+
+// Reference (Non primitive) (Heap Memory)
+// Array, Objects, Functions
+
+// Stack Memory (give copy of original variable not give original reference)
+// Heap Memory (give  direct original reference)
